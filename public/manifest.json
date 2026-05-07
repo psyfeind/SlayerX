@@ -1,0 +1,21 @@
+{
+  "name": "KagePlay",
+  "short_name": "KagePlay",
+  "description": "Premium anime streaming with neon cyberpunk visuals.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#5b21b6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
